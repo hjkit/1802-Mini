@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name Button_Switch_Keyboard)(type KiCad)(uri $KIPRJMOD/modules/Button_Switch_Keyboard.pretty)(options "")(descr ""))
-)
