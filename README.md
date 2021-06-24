@@ -1,5 +1,5 @@
 # 1802-Mini
-This is a modular, expandable, 1802-based computer envisioned for uses from an SBC to eventually a multi-user timesharing system. Inspired by the [RC1802-Cosmac-ELF](https://github.com/tebl/1802-Cosmac-ELF) but improved in many ways and with added expansion capabilities.
+This is a modular, expandable, 1802-based computer envisioned for uses from an SBC to eventually a multi-user timesharing system. Inspired by the [RC1802-Cosmac-ELF](https://github.com/tebl/RC1802-Cosmac-ELF) but improved in many ways and with added expansion capabilities.
 
 ![1802/Mini Assembled](https://github.com/dmadole/1802-Mini/blob/master/photos/1802-Mini-Assembled-Three-Cards.jpg)
 
