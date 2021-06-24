@@ -9,4 +9,4 @@ https://github.com/dmadole/1802-Mini-Processor
 https://github.com/dmadole/1802-Mini-Front-Panel  
 https://github.com/dmadole/1802-Mini-Compact-Flash  
 
-If you have any questons on the project, please contact me.
+If you have any questons on the project, please contact me. I can also usually supply single quantities of circuit boards.
