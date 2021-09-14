@@ -13,7 +13,7 @@ This is a ROM image that contains a modified Elf/OS 4.1.0 installer package comb
 * The ROM proceeds directly to booting Elf/OS on reset rather than displaying the ROM menu
 * The ROM menu may still be accessed by asserting EF4 during reset (such as by holding the INPUT button)
 * Cursor positioning and other terminal controls have been removed from the top ROM menu
-* The xr and xrb executables are booth included so install can be completed with software or harware UARTs
+* The xr and xrb executables are both included so install can be completed with software or hardware UARTs
 
 ## Summary of changes to the contained BIOS:
 
