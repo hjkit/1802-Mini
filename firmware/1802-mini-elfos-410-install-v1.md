@@ -2,7 +2,7 @@
 
 This is a ROM image that contains a modified Elf/OS 4.1.0 installer package combined with an enhanced BIOS that is built from sources forked from Mike Riley's official repository. This software is a derivative work of the standard Elf/OS installation ROM and BIOS, therefore the following license terms apply:
 
-> This software is copyright 2005 by Michael H Riley
+> This software is copyright 2004-2005 by Michael H Riley
 > You have permission to use, modify, copy, and distribute
 > this software so long as this copyright notice is retained.
 > This software may not be used in commercial applications
