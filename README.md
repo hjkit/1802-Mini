@@ -10,4 +10,7 @@ https://github.com/dmadole/1802-Mini-Front-Panel
 https://github.com/dmadole/1802-Mini-Compact-Flash  
 https://github.com/dmadole/1802-Mini-1854-Serial  
 
-If you have any questons on the project, please contact me. I can also usually supply single quantities of circuit boards.
+If you have any questons on the project, please contact me. I can also usually supply single quantities of circuit boards, as well as complete kits. For kit information please see here:
+
+http://madole.net/1802/mini/kits/
+
