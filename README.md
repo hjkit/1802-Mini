@@ -9,7 +9,7 @@ https://github.com/dmadole/1802-Mini-Processor
 https://github.com/dmadole/1802-Mini-Front-Panel  
 https://github.com/dmadole/1802-Mini-Compact-Flash  
 https://github.com/dmadole/1802-Mini-1854-Serial  
-https://github.com/dmadole/1802-Mini-Super-Elf-Bus \*Prelease\*
+https://github.com/dmadole/1802-Mini-Super-Elf-Bus
 
 If you have any questons on the project, please contact me. I can also usually supply single quantities of circuit boards, as well as complete kits. For kit information please see here:
 
