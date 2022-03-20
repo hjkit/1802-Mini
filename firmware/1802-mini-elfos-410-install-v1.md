@@ -36,6 +36,6 @@ This BIOS supports both the 1854 UART and the bit-banged UART on EF2 and Q. It d
 
 Disabling the f_freemem scan and always indicating memory size as $7FFF enables the ability to jumper a 28C256 EEPROM in the system as write-enabled so that it can be programmed in-system. Otherwise, the memory scan will cause the system to crash when it hits the EEPROM address. When running with the EEPROM hardware-write-enabled, it is important to use the software-write-protect feature to prevent data from being accidentally written.
 
-In order to install Elf/OS or access the tools such as SEDIT included in the ROM, you will need to assert EF4 during reset. Also, editing from SEDIT will boot from disk unless EF4 is held down, in which case it will return to the main menu.
+In order to install Elf/OS or access the tools such as SEDIT included in the ROM, you will need to assert EF4 during reset. Also, exiting from SEDIT will boot from disk unless EF4 is held down, in which case it will return to the main menu.
 
 Some of the BIOS changes are dependent on knowledge of the processor clock frequency; this image was built presuming a 4Mhz clock. If you are using a different clock frequency the baud rate and IDE boot delay will be proportionally different. It is possible to rebuild the BIOS for another frequency, please reach out if you would like assistance with that.
