@@ -2,7 +2,7 @@
 
 This is an experimental ROM image for the 1802/Mini with expander card that seeks to add maximal firmware-level support for the 1802/Mini hardware.
 
-> __Note that "Experimental" means that this may or may not work exactly as advertised, and in addition, recovery may require re-programming your EEPROM back to prior source. Also, at this time, this firmware requires an [expander card](https://github.com/dmadole/1802-Mini-Expander-RTC) on the 1802/Mini.__
+> __Note that "Experimental" means that this may or may not work exactly as advertised, and in addition, recovery may require re-programming your EEPROM. Also, at this time, this firmware requires an [expander card](https://github.com/dmadole/1802-Mini-Expander-RTC) on the 1802/Mini.__
 
 Please start with reading the notes of prior releases in the [firmware folder](https://github.com/dmadole/1802-Mini/new/master/firmware) as this image builds upon them. In addition to the prior changes, this image includes:
 
