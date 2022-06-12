@@ -23,7 +23,7 @@ Also as of 3.2, this ROM will work on an 1802/Mini with __or__ without an Expand
 * _The boot Elf/OS menu option enables expanded memory before invoking BIOS to boot, allowing use of 62K RAM._
 * An additional menu option has been added to boot without enabling expansion RAM (base 32K RAM only)
 * The message "Booting system..." is displayed before booting even when not using the installer menu.
-* _Exiting from SEDIT will now return to the ROM menu iven if EF4 is not still asserted._
+* _Exiting from SEDIT will now return to the ROM menu even if EF4 is not still asserted._
 
 ## Summary of changes to the contained BIOS:
 
