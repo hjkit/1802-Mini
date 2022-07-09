@@ -1,7 +1,12 @@
-# 1802-mini-elfos-410-install-v4.1.img
+# 1802-mini-elfos-410-install-v4.3.img
 
-This is an Elf/OS 4.1 installer ROM image for the 1802/Minithat seeks to add maximal firmware-level support for the 1802/Mini hardware.
+This is an Elf/OS 4.1 installer ROM image for the 1802/Minithat seeks to add maximal firmware-level support for the 1802/Mini hardware. While the Utility menu (including EEPROM utility) and MBIOS software are original works, this ROM also contains Elf/OS and installer code directly from the standard Elf/OS installation ROM, therefore the following license terms apply apply also to the image:
 
+> This software is copyright 2004-2005 by Michael H Riley
+> You have permission to use, modify, copy, and distribute
+> this software so long as this copyright notice is retained.
+> This software may not be used in commercial applications
+> without express written permission from the author.
 
 Please start with reading the notes of prior releases in the [firmware folder](https://github.com/dmadole/1802-Mini/new/master/firmware) as this image builds upon them. In addition to the prior changes, this image includes:
 
