@@ -11,7 +11,8 @@ https://github.com/dmadole/1802-Mini-Compact-Flash
 https://github.com/dmadole/1802-Mini-1854-Serial  
 https://github.com/dmadole/1802-Mini-9918-Video  
 https://github.com/dmadole/1802-Mini-Super-Elf-Bus  
-https://github.com/dmadole/1802-Mini-Expander-RTC `NEW`
+https://github.com/dmadole/1802-Mini-Expander-RTC
+https://github.com/dmadole/1802-Mini-Backplane `NEW`
 
 If you have any questons on the project, please contact me. I can also usually supply single quantities of circuit boards, as well as complete kits. For kit information please see here:
 
