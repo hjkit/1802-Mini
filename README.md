@@ -21,5 +21,5 @@ http://madole.net/1802/mini/kits/
 
 There are also a couple of nice expansion cards that were designed by Tony Hefner which design data is available for through his Github projects:
 
-https://github.com/arhefner/1802-Mini-SPI-DMA
-https://github.com/arhefner/1802-Mini-PIO
+https://github.com/arhefner/1802-Mini-SPI-DMA  
+https://github.com/arhefner/1802-Mini-PIO  
