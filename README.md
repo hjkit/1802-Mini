@@ -12,9 +12,14 @@ https://github.com/dmadole/1802-Mini-1854-Serial
 https://github.com/dmadole/1802-Mini-9918-Video  
 https://github.com/dmadole/1802-Mini-Super-Elf-Bus  
 https://github.com/dmadole/1802-Mini-Expander-RTC  
-https://github.com/dmadole/1802-Mini-Backplane `NEW`
+https://github.com/dmadole/1802-Mini-Backplane  
+https://github.com/dmadole/1802-Mini-Pixie-Video `NEW`
 
 If you have any questons on the project, please contact me. I can also usually supply single quantities of circuit boards, as well as complete kits. For kit information please see here:
 
 http://madole.net/1802/mini/kits/
 
+There are also a couple of nice expansion cards that were designed by Tony Hefner for which data is available in his Github projects:
+
+https://github.com/arhefner/1802-Mini-SPI-DMA  
+https://github.com/arhefner/1802-Mini-PIO  
